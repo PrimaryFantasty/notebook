@@ -4,7 +4,7 @@ title: Hello World!
 slug: typography
 date: 2019-12-18 16:50
 status: publish
-author: AlanDecode
+author: Fantasty
 categories: 
   - Maverick
 tags:
@@ -38,6 +38,7 @@ We are creating a world where anyone, anywhere may express his or her beliefs, n
 ## Blockquote and nested blockquote
 
 > 安得广厦千万间，大庇天下寒士俱欢颜！风雨不动安如山。
+>
 > > 呜呼！何时眼前突兀见此屋，吾庐独破受冻死亦足！
 
 ## Code
@@ -113,4 +114,4 @@ cell 3 | cell 4
 [/links]
 
 
-  [1]: ./images/1463017562.jpg
+[1]: ./images/1463017562.jpg
